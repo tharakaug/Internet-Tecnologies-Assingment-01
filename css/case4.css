@@ -1,0 +1,95 @@
+/* body {
+    margin: 0;
+  }
+
+  .card1 {
+    width: 1350px;
+    height: 50px;
+    background-color: red;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+  }
+
+  .Hello {
+    width: 1350px;
+    height: 575px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  p {
+    font-size: 100px;
+  }
+
+  h3 {
+    color: white;
+  }
+
+  .card2 {
+    width: 1350px;
+    height: 50px;
+    background-color: rgb(15, 0, 155);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+  }
+
+  .How {
+    width: 1350px;
+    height: 575px;
+    background-color: rgb(72, 90, 253);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .card3 {
+    width: 1350px;
+    height: 50px;
+    background-color: rgb(61, 61, 61);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+  }
+
+  .Are {
+    width: 1350px;
+    height: 575px;
+    background-color: rgb(109, 109, 109);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .card4 {
+    width: 1350px;
+    height: 50px;
+    background-color: rgb(172, 5, 5);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+  }
+
+  .You {
+    width: 1350px;
+    height: 575px;
+    background-color: rgb(245, 53, 53);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } */

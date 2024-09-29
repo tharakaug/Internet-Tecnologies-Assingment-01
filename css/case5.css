@@ -1,0 +1,48 @@
+/* body {
+    margin: 0;
+  }
+  .box {
+    border: 1px solid black;
+    padding: 10px;
+  }
+  .container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    height: 100vh;
+  }
+  .box1 {
+    background-color: red;
+  }
+  .box2 {
+    background-color: green;
+  }
+  .box3 {
+    background-color: orangered;
+  }
+  .box4 {
+    background-color: purple;
+  }
+  .box5 {
+    background-color: palevioletred;
+  }
+  .box6 {
+    background-color: blue;
+  }
+  .box7 {
+    background-color: brown;
+  }
+  .box8 {
+    background-color: rgb(226, 154, 226);
+  }
+  .box9 {
+    background-color: rgb(31, 24, 126);
+  }
+  .box10 {
+    background-color: yellow;
+  }
+  .box11 {
+    background-color: rgb(114, 119, 117);
+  }
+  .box12 {
+    background-color: rgb(31, 240, 255);
+  } */
